@@ -1,0 +1,15 @@
+body{
+margin:auto;
+}
+
+.area{
+width:600px;
+height:300px;
+backgroung-color:red;
+}
+
+@media only screen and (orientation:landscape){
+.area{
+width:200px;
+}
+}
